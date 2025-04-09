@@ -10,6 +10,7 @@ function App() {
     < >
       <div className='hello'>
         <h1>Hello this is rishi kumar</h1>
+        <h2>iam a software engineer </h2>
       </div>
     </>
   )
